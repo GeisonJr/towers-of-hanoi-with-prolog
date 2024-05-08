@@ -1,0 +1,12 @@
+{
+	"scripts": {
+		"start": "ts-node src/index.ts"
+	},
+	"dependencies": {
+		"tau-prolog": "^0.3.4"
+	},
+	"devDependencies": {
+		"@types/node": "^20.12.10",
+		"ts-node": "^10.9.2"
+	}
+}
