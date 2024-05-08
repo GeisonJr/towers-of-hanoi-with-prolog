@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"allowSyntheticDefaultImports": true,
+		"declaration": true,
+		"module": "CommonJS",
+		"moduleResolution": "Node",
+		"outDir": "./lib",
+		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"strict": false,
+		"target": "ES6"
+	},
+	"include": ["./src"]
+}
